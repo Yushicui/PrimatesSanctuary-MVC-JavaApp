@@ -64,3 +64,7 @@ The transition to the MVC model has resulted in a more cohesive and maintainable
 - Monkeys marked with "Yes" under "Is Healthy" are assumed to have already received medical attention and are eligible to be moved to an enclosure.
 - The input weight is assumed to be in kilograms.
 - The input age is assumed to be in years.
+
+### **Summary**<br>
+The Primates Sanctuary Java application stands as a beacon of efficiency and usability in managing monkeys within a sanctuary. 
+By leveraging the MVC architecture, the application not only enhances user experience through its graphical interface but also ensures systematic management of each monkey's details, health, and enclosure status.
