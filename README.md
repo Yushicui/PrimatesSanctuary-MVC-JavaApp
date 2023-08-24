@@ -65,6 +65,10 @@ The transition to the MVC model has resulted in a more cohesive and maintainable
 - The input weight is assumed to be in kilograms.
 - The input age is assumed to be in years.
 
+### **Limitations**
+- The program lacks a saving function, further development should integrate a database, such as MongoDB, to facilitate data storage and retrieval.
+- The user interface can be further improved, such as displaying the lists in table format, and the overall design could be made more user-friendly.
+
 ### **Summary**<br>
 The Primates Sanctuary Java application stands as a beacon of efficiency and usability in managing monkeys within a sanctuary. 
 By leveraging the MVC architecture, the application not only enhances user experience through its graphical interface but also ensures systematic management of each monkey's details, health, and enclosure status.
